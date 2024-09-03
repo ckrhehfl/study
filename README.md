@@ -7,12 +7,13 @@
 
   - [리눅스(Linux)](https://github.com/ckrhehfl/study/tree/main/Linux)
 
-  -
+  - [해킹](https://github.com/ckrhehfl/study/tree/main/hacking)
+
 <br>
 
 ### 도서 목록
 
-  - []()
+  - [혼자서 공부하는 컴퓨터 구조+운영체제]()
 
  
 
